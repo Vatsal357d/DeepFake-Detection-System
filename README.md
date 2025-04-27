@@ -74,8 +74,6 @@ The model predicts whether images in the test dataset are "Real" or "Fake."
 Results
 Accuracy: Achieved during model evaluation.
 Model File: deepfake_detector_model.h5.
-License
-This project is licensed under the MIT License.
 
 Contact
 For questions or suggestions, please open an issue or contact the repository owner.
